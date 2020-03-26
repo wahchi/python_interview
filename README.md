@@ -10,10 +10,10 @@ pip3 install -r requirement.txt
 
 运行我写的函数
 ```
-python3 解答.py
+python3 answer.py
 ```
 
 运行单元测试
 ```
-pytest 单元测试.py
+pytest test_question.py
 ```
