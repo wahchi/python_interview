@@ -1,8 +1,5 @@
 # python 面试题
 
-# 需要python3环境
-
-
 包安装
 ```
 pip3 install -r requirement.txt
@@ -17,3 +14,10 @@ python3 answer.py
 ```
 pytest test_question.py
 ```
+
+注意：
+
+ - 你需要按照指定的接口，指定返回
+ - 注意performance
+ - 需要python3环境
+
