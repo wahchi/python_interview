@@ -1,7 +1,7 @@
 # 单元测试验证
 import pytest
 from pydash import collections
-from 解答 import get_high_score
+from answer import get_high_score
 
 
 def check_hit(t, h):
