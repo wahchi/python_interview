@@ -31,7 +31,7 @@ pytest test_question.py
 
  - 我可以上网吗？－－ 可以，make yourself comfortable。
  - 我可以问别人吗？ －－ 请独立完成，if you lie , we'll know sooner or later。
- - 我超过30分钟怎么办？请尽量按时提交。如果超过30分钟，请标注下完成用时。
+ - 我超过60分钟怎么办？请尽量按时提交。如果超过60分钟，请标注下完成用时。
  - 我做不完怎么办？没关系请尽量按点顺序完成。
  
 指定邮箱为：szheng@kalengo.com
